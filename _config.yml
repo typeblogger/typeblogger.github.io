@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://brunotandev.github.io/"
+baseurl: "/"
+url: "https://typeblogger.github.io/"
 excerpt_separator: "<!--excerpt-->"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -9,7 +9,7 @@ theme:
   title: Bruno
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "Blogging, search engine optimisation and digital marketing for smart people." # used by search engines
+  description: "Blogging and content creation for smart people." # used by search engines
 
   # Header and footer text
   header_text_feature_image:
