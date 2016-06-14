@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: ""
 url: "https://typeblogger.github.io/"
 excerpt_separator: "<!--excerpt-->"
 
