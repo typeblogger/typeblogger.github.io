@@ -6,8 +6,7 @@ excerpt_separator: "<!--excerpt-->"
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Bruno
-  avatar: avatar.png
+  title: Typeblogger
   gravatar: # Email MD5 hash
   description: "Blogging and content creation for smart people." # used by search engines
 
