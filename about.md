@@ -5,19 +5,19 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Hey there, I'm [Bruno](http://twitter.com/brunotandev). Welcome to my blog, where you can find me giving practical advice about blogging, search engine optimisation and digital marketing. I'm so glad you came here!
+Hey there, I'm [Bruno](http://twitter.com/brunotandev). Welcome to Typeblogger, where you can find me and my team giving practical advice about blogging and content creation for smart people just like you. I'm so glad you came here!
 
-I first started this blog because I felt that readers needed a quick and easy resource to help readers grow their online presence. Additionally, the world of blogging, search engine optimisation and digital marketing could be confusing for many who were just starting out, so I decided to make it easier for beginners by offering [free advice](/) and [downloadable content](/freebies).
+I started this blog because I love helping people like you create successful blogs and earn a full-time income from your passion.
 
 ## Who this blog is for
 
-If you own a website or blog and want to boost conversions, supercharge your SEO and get tons of traffic, then this blog is for you! You'll find lots of [free advice](/) on my blog, as well as some [useful templates and tools](/freebies) I created that you can get for free! Sounds good, doesn't it?
+If you want to start a blog or already own a blog, and you're looking for ways to build your audience, then this blog is for you! You'll find lots of [free advice](/) on my blog, as well as some [useful templates and tools](/freebies) I created that you can get for free! Sounds good, doesn't it?
 
 Is this your first time here? Check out these articles to get a feel of my blog!
 
-* [5 Steps to an Engaging Website Design](http://brunotandev.github.io/2016/06/01/engaging-website-design/)
-* [3 Ways to Stop Comment Spam (Before It Kills Your Blog)](http://brunotandev.github.io/2016/05/30/stop-comment-spam/)
-* [3 More Warning Signs Your Free WordPress Theme is Sabotaging Your Website](http://brunotandev.github.io/2016/06/02/free-wordpress-themes/)
+* [5 Steps to an Engaging Website Design](https://typeblogger.github.io/2016/06/01/engaging-website-design/)
+* [3 Ways to Stop Comment Spam (Before It Kills Your Blog)](https://typeblogger.github.io/2016/05/30/stop-comment-spam/)
+* [3 More Warning Signs Your Free WordPress Theme is Sabotaging Your Website](https://typeblogger.github.io/2016/06/02/free-wordpress-themes/)
 
 ## Find me on social media
 
