@@ -1,0 +1,75 @@
+# SITE CONFIGURATION
+baseurl: "/type-theme"
+url: "https://brunotandev.github.io/"
+excerpt_separator: "<!--excerpt-->"
+
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: Bruno
+  avatar: avatar.png
+  gravatar: # Email MD5 hash
+  description: "Blogging, search engine optimisation and digital marketing for smart people." # used by search engines
+
+  # Header and footer text
+  header_text_feature_image:
+  footer_text: >
+   Copyright 2016 Bruno. All rights reserved.
+
+  # Icons
+  rss: false
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github:
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter:
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: "UA-69270848-4"
+  disqus_shortname: brunotandev
+  katex: false # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+gems:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-paginate
