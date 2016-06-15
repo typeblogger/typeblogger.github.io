@@ -72,3 +72,13 @@ gems:
   - jemoji
   - jekyll-redirect-from
   - jekyll-paginate
+
+# BLOG AUTHORS
+authors:
+  bruno:
+    name: Bruno Tan
+    display_name: Bruno
+    gravatar: brunotandev
+    email: brunotandev@gmail.com
+    web: https://typeblogger.github.io
+    twitter: brunotandev
