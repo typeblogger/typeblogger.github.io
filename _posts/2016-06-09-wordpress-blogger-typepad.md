@@ -5,6 +5,7 @@ comments: true
 published: true
 tags: wordpress, blogger, typepad, best blogging platform
 feature-img: "img/laptop.jpg"
+author: bruno
 ---
 If you're just starting out in the world of blogging, one of the earliest decisions you'll have to make is choosing the blogging platform that powers your blog.
 
