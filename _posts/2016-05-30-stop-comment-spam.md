@@ -3,6 +3,7 @@ layout: post
 title: 3 Ways to Stop Comment Spam (Before It Kills Your Blog)
 comments: true
 published: true
+author: bruno
 tags: comment spam, blogging
 ---
 Ah, comment spam. Anyone who runs a blog will be familiar with it, from the insincere compliments to, frankly, gibberish churned out by copy spinning programs. 
