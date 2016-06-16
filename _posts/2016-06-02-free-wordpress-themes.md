@@ -3,6 +3,7 @@ layout: post
 title: 3 More Warning Signs Your Free WordPress Theme is Sabotaging Your Website
 comments: true
 published: true
+author: bruno
 tags: WordPress, themes, free, warning signs
 ---
 Recently, I came across this [excellent post](https://smartblogger.com/free-wordpress-themes/) from the friendly folks over at [SmartBlogger](http://smartblogger.com) on how using a free WordPress theme could actually do more harm than good. Go check it out if you have the time - I'm sure you'll enjoy it!
