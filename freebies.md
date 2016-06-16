@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Freebies
+published: true
+permalink: /freebies/
 ---
 Here's a list of freebies that I've prepared specially for you folks :) Feel free to download them and use them however you want, and don't forget to share them with your friends too!
 
