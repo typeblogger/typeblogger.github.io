@@ -5,7 +5,7 @@ comments: true
 published: false
 author: bruno
 ---
-How do you promote your blog? That is a big question most bloggers or content marketers are faced with.
+How do you promote your blog? That is a _huge_ question most bloggers and content marketers are faced with.
 
 Prtr
 
@@ -15,7 +15,7 @@ Without further ado, here are the experts...
 
 (Click on the links below to go directly to each expert)
 
-<strong>Tim Bourquin from [AfterOffers](https://afteroffers.com)</strong>
+**Tim Bourquin from [AfterOffers](https://afteroffers.com)**
 
 The common myth out there these days is that every single blog post
 you write must be an epic 6,000 word tome.
@@ -46,14 +46,20 @@ your autoresponder series too.
 
 Milk that cow for as much as you can!
 
-<hr>
+---
 
-<strong>Jason Acidre from [KaiserTheSage](http://kaiserthesage.com/)</strong>
+**Jason Acidre from [KaiserTheSage](http://kaiserthesage.com/)**
 
-Target sites/people who have already linked to or shared a content that covers the same topic as yours in the past. There'll be a higher likelihood of getting them to share or link to your content as well based on their historical activities, and this approach will mostly be effective if your content appears to be more valuable than the ones they've previously linked to or shared via social media. For a more detailed instruction to this approach for outreach, you can also check out a post I've written a few years back on linker outreach.
+Target sites/people who have already linked to or shared a content that covers the same topic as yours in the past. There'll be a higher likelihood of getting them to share or link to your content as well based on their historical activities, and this approach will mostly be effective if your content appears to be more valuable than the ones they've previously linked to or shared via social media. For a more detailed instruction to this approach for outreach, you can also check out a post I've written a few years back on [linker outreach](http://kaiserthesage.com/linker-outreach/).
 
--
+---
 
-Michael Pozdnev
+**Michael Pozdnev from [iWannaBeABlogger](http://iwannabeablogger.com/)**
 
 Friends, nowadays, if you’re not an influencer, to promote your content you’re gonna need support from your online friends: links, shares, comments, upvotes, etc. As for me, blogger outreach is the most effective and efficient way, but unlike other people who shared related articles on Twitter, I don’t use Buzzsumo to search for target bloggers. I search them thru commenters. Those who leave their comments on any topic are the most engaged audience. And then I start building relationships. The results have always been amazing. I only have three blog posts, but I’ve already received comments, shares, and visitors more than some experts of online marketing.
+
+---
+
+**Larry Kim from [Wordstream](http://wordstream.com)**
+
+In paid content promotion on Facebook and Twitter, the reach and cost of your promoted post will be inversely proportional to the post engagement. So the worst thing you can ever do is waste money promoting garbage because it will generate very few ad impressions at a very high cost. Instead, go all-in on your unicorns – your very best, most engaging content which will generate tons of impressions and clicks for much less cost.
