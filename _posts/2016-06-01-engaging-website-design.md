@@ -3,6 +3,7 @@ layout: post
 title: 5 Steps to an Engaging Website Design
 comments: true
 published: true
+author: bruno
 tags: web design, engaging, tips
 ---
 Whether you're designing a website for your client, or you're customising your personal WordPress blog, an engaging website design is the key to attracting and retaining your users. 
