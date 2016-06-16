@@ -13,7 +13,7 @@ theme:
   # Header and footer text
   header_text_feature_image:
   footer_text: >
-   Copyright 2016 Bruno. All rights reserved.
+   Copyright 2016 <a href="https://typeblogger.github.io">Typeblogger</a>. All rights reserved. Made with <3 by Bruno.
 
   # Icons
   rss: false
