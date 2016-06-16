@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 published: true
+permalink: /contact/
 ---
 Whether you’d like to talk about blogging, search engine optimisation, or anything else, I would love to have a friendly chat with you.
 
