@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 published: true
+feature-img: /img/background3
 permalink: /resources/
 ---
 Building a successful blog means using the right tools that will help you get there. Here is a list of tools I've prepared specially for you folks that I personally recommend and use for my own blog. **This page is currently a work in progress! Will be updated soon.**
