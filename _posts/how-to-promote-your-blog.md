@@ -11,11 +11,11 @@ Prtr
 
 Today, I've invited X successful bloggers to share their tips and insights on crafting an effective blog promotion strategy that's able to rake in thousands of unqiue visitors and email signups for your blog.
 
-Without further ado, here are the experts...
-
-(Click on the links below to go directly to each expert)
+Without further ado, here are the experts! Click on the links below to go to your favourite experts, or just scroll through the entire thing!
 
 **Tim Bourquin from [AfterOffers](https://afteroffers.com)**
+
+<img src="{{site.baseurl}}/img/tim-bourquin.jpg" alt="Tim Bourquin" height="216px">
 
 The common myth out there these days is that every single blog post
 you write must be an epic 6,000 word tome.
@@ -50,16 +50,22 @@ Milk that cow for as much as you can!
 
 **Jason Acidre from [KaiserTheSage](http://kaiserthesage.com/)**
 
+<img src="({{site.baseurl}}/img/kaiserthesage.jpeg)" alt="Jason Acidre" height="216px">
+
 Target sites/people who have already linked to or shared a content that covers the same topic as yours in the past. There'll be a higher likelihood of getting them to share or link to your content as well based on their historical activities, and this approach will mostly be effective if your content appears to be more valuable than the ones they've previously linked to or shared via social media. For a more detailed instruction to this approach for outreach, you can also check out a post I've written a few years back on [linker outreach](http://kaiserthesage.com/linker-outreach/).
 
 ---
 
 **Michael Pozdnev from [iWannaBeABlogger](http://iwannabeablogger.com/)**
 
+<img src="({{site.baseurl}}/img/michael-pozdnev.jpg" alt="Michael Pozdnev" height="216px">
+
 Friends, nowadays, if you’re not an influencer, to promote your content you’re gonna need support from your online friends: links, shares, comments, upvotes, etc. As for me, blogger outreach is the most effective and efficient way, but unlike other people who shared related articles on Twitter, I don’t use Buzzsumo to search for target bloggers. I search them thru commenters. Those who leave their comments on any topic are the most engaged audience. And then I start building relationships. The results have always been amazing. I only have three blog posts, but I’ve already received comments, shares, and visitors more than some experts of online marketing.
 
 ---
 
 **Larry Kim from [Wordstream](http://wordstream.com)**
+
+<img src="{{site.baseurl}}/img/larry-kim.jpg" alt="Larry Kim" height="216px">
 
 In paid content promotion on Facebook and Twitter, the reach and cost of your promoted post will be inversely proportional to the post engagement. So the worst thing you can ever do is waste money promoting garbage because it will generate very few ad impressions at a very high cost. Instead, go all-in on your unicorns – your very best, most engaging content which will generate tons of impressions and clicks for much less cost.
