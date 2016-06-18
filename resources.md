@@ -13,10 +13,11 @@ Here is a list of tools I've prepared specially for you folks that I personally 
 
 If you're just starting out and you want cheap, reliable and hassle-free hosting, then by all means go with <a href="https://www.siteground.com/go/typeblogger" target="_blank">SiteGround</a>. Their customer support is simply amazing and I have never had any hiccups with their hosting. Definitely the best hosting provider out there.
 
-<a class="button" href="https://www.siteground.com/go/typeblogger" target="_blank">Get SiteGround Hosting</a>
 <br>
 ![siteground-logo.png]({{site.baseurl}}/img/siteground-logo.png)
 <br>
+
+<a class="button" href="https://www.siteground.com/go/typeblogger" target="_blank">Get SiteGround Hosting</a>
 
 ---
 
@@ -24,13 +25,14 @@ If you're just starting out and you want cheap, reliable and hassle-free hosting
 
 Anyone who has been in the blogosphere for a while has most likely have heard by now one of the most important proverbs of online business: the money is in the list.
 
-The latter couldn't be any truer, so that's why it is essential that you set up a mailing list as soon as possible. 
+The latter couldn't be any truer, which is why it is essential that you set up a mailing list for your blog as soon as possible. 
 
-If you want an easy-to-use yet powerful email marketing solution, <a href="https://mailchimp.com" target="_blank">MailChimp</a> is the one that I wholeheartedly use and recommend. The best thing? You don't even have to know any technical skills in order to setup your mailing list!
+If you want an easy-to-use yet powerful email marketing solution, <a href="https://mailchimp.com" target="_blank">MailChimp</a> is the one that I use and recommend. The best thing? You don't even have to pay a single cent for the free plan!
 
-<a class="button" href="https://mailchimp.com" target="_blank">Get MailChimp</a>
 <br>
 ![mailchimp-logo.jpg]({{site.baseurl}}/img/mailchimp-logo.jpg)
 <br>
+
+<a class="button" href="https://mailchimp.com" target="_blank">Get MailChimp</a>
 
 ---
