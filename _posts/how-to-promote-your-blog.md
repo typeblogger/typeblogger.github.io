@@ -7,11 +7,11 @@ author: bruno
 ---
 How do you promote your blog? That is a _huge_ question most bloggers and content marketers are faced with.
 
-Prtr
+Creating great content is only part of the content marketing battle, and it isn't the part that matters if no one ever sees your work. Successful distribution is the most critical part of a content marketer's job, and the more companies jump on the content marketing bandwagon, the more creative and clever your promotional strategies have to become.
 
-Today, I've invited X successful bloggers to share their tips and insights on crafting an effective blog promotion strategy that's able to rake in thousands of unqiue visitors and email signups for your blog.
+That's why I've invited X successful bloggers to share their tips and insights on crafting an effective blog promotion strategy that sets you up for content marketing success and helps your content reach more eyes.
 
-Without further ado, here are the experts! Click on the links below to go to your favourite experts, or just scroll through the entire thing!
+Without further ado, here are the experts! Click on the links below to go to your favourite experts, or just get ready to keep scrolling!
 
 **Tim Bourquin from [AfterOffers](https://afteroffers.com)**
 
@@ -69,3 +69,11 @@ Friends, nowadays, if you’re not an influencer, to promote your content you’
 <img src="{{site.baseurl}}/img/larry-kim.jpg" alt="Larry Kim" height="216px">
 
 In paid content promotion on Facebook and Twitter, the reach and cost of your promoted post will be inversely proportional to the post engagement. So the worst thing you can ever do is waste money promoting garbage because it will generate very few ad impressions at a very high cost. Instead, go all-in on your unicorns – your very best, most engaging content which will generate tons of impressions and clicks for much less cost.
+
+---
+
+**Peter Sandeen from [PeterSandeen](http://www.petersandeen.com/)**
+
+<img src="{{site.baseurl}}/img/peter-sandeen.jpeg" alt="Peter Sandeen" height="216px">
+
+People usually forget that it’s not hard to get huge numbers of people to a piece of content…if the traffic leads to predictable revenue. When each article leads visitors to a funnel (that converts people to customers), you have plenty of effective options to choose from. Advertising is the most obvious, but joint ventures etc. are also relatively easy to use. But all that only happens if you have a funnel in place that does its job ;)
