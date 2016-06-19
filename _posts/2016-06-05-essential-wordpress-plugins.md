@@ -3,7 +3,7 @@ layout: post
 title: 9 Essential WordPress Plugins You Need For Your Website
 comments: true
 published: true
-author: bruno
+author: brunotandev
 tags: 'WordPress, plugins, website, search engine optimisation'
 ---
 If you ask me what my favourite content management system is, it has got to be [WordPress](http://wordpress.org). I use it on almost all of my [client's sites](/portfolio) due to its intuitive, simple yet powerful user interface, not to mention because of the fact that it has over 40,000+ free plugins available for download.
