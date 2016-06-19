@@ -3,7 +3,7 @@ layout: post
 title: How to Get Google to Quickly Index Your New Website or Blog
 comments: true
 published: true
-author: bruno
+author: brunotandev
 tags: search engine optimisation, google, crawl, index
 ---
 So, you built a website. Congratulations! Now that your website has been published and ready for the world to see, you may feel like your work is done, but guess what? 
