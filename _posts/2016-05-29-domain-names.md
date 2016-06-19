@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Choosing the Right Domain Name
+title: Choosing the Right Domain Name For Your Blog
 comments: true
 published: true
-author: bruno
+author: brunotandev
 tags: domain name, website, search engine optimisation
 ---
-Thinking about purchasing a domain name for your website? Sometimes, choosing the right domain name can be hard. Maybe it’s because the domain name you want has already been taken by someone else. Or maybe it’s because you need something a little more unique.
+Thinking about purchasing a domain name for your blog? Sometimes, choosing the right domain name can be hard. Maybe it’s because the domain name you want has already been taken by someone else. Or maybe it’s because you need something a little more unique.
 
 This guide aims to help all you folks out there find a great domain name that’ll go a long way in establishing a successful online presence.
 <!--excerpt-->
