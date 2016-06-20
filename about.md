@@ -6,13 +6,23 @@ feature-img: img/background1.png
 published: true
 ---
 
-Hey there, I'm [Bruno](http://twitter.com/brunotandev). Welcome to Typeblogger, where you can find me and my team giving practical advice about blogging and content creation for smart people just like you. I'm so glad you came here!
+Hey there, I'm [Bruno](http://twitter.com/brunotandev). Welcome to Typeblogger, where you can find me and my team giving practical advice about blogging and content marketing for smart people just like you. I'm so glad you came here!
 
-I started this blog because I love helping people like you create successful blogs and earn a full-time income from your passion.
+
 
 ## Who this blog is for
 
-If you want to start a blog or already own a blog, and you're looking for ways to build your audience, then this blog is for you! You'll find lots of [free advice](/) on my blog, as well as some [useful templates and tools](/freebies) I created that you can get for free! Sounds good, doesn't it?
+If you want to learn the secrets to creating a s
+
+
+* How do I make money from my blog?
+* How can I sell my own products and services without feeling pushy?
+* How can I persuade someone to work with me?
+* How can I grow my audience?
+
+...then you're in the right place! 
+
+I started this blog because I love helping people like you create successful blogs and earn a full-time income from your passion.
 
 Is this your first time here? Check out these articles to get a feel of my blog!
 
