@@ -12,7 +12,7 @@ Hey there, I'm [Bruno](http://twitter.com/brunotandev). Welcome to Typeblogger, 
 
 ## Who this blog is for
 
-If you want to learn the secrets to creating a s
+If you've ever asked yourself these questions:
 
 
 * How do I make money from my blog?
