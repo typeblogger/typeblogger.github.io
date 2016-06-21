@@ -26,3 +26,12 @@ If the answer is yes, read on as I give you 100+ bite-sized tips to help you get
 ## 4 Simple Reasons Why You Need More Social Shares
 
 So, you may be wondering: _What's the big deal with social shares?_
+
+Well, the truth is, they can do a lot for you. Here are some reasons why:
+
+- **It can generate insane amounts of traffic for your blog**. The more shares you get, the more people your content reaches, leading to tons of traffic to your blog.
+- **Leverage the power of social proof**. When someone visits your blog and reads a post that gets lots of social shares, it has a positive effect on how they perceive your blog, making it much more likely for readers to share your content.
+- **Your blog's visibility reaches new heights**. When someone shares your content, your name becomes visible to a potentially large group of people. The more people see mentions of your name (especially when shared by influencers), the more curious they will get over time.
+
+## How to Get More Social Shares on Twitter
+
