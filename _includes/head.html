@@ -1,11 +1,9 @@
 <head>
+	{% seo %}
 	<meta charset="utf-8">
-	<title>{{ site.theme.title }} | Blogging and Content Creation Tips</title>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme.description }}{% endif %}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-Frame-Options" content="sameorigin">
-	
-	{% seo title=false %}
 	
 	<!-- CSS -->
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
