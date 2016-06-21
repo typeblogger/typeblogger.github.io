@@ -19,7 +19,7 @@ We’ve all been there, desperately wanting our voice to be heard by the masses.
 But, what if I could show you some quick and easy tips that will help you to boost your social shares _and_ get more eyeballs on your content?
 
 Would you give it a try?
-
+<!--excerpt-->
 If the answer is yes, read on as I give you 100+ bite-sized tips to help you get 1000s of social shares on every blog post.
 
 ## 4 Simple Reasons Why You Need More Social Shares
