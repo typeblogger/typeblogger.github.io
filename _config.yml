@@ -83,6 +83,8 @@ authors:
     web: https://typeblogger.github.io
     twitter: brunotandev
 
-# TWITTER CARD
+# JEKYLL SEO TAG CONFIG
 twitter:
   username: typeblogger_
+title: Typeblogger
+description: Blogging and content creation for smart people
