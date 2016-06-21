@@ -6,6 +6,7 @@ published: false
 feature-img: img/traffic.jpg
 author: brunotandev
 tags: 'social shares, blog posts, bite-sized tips'
+permalink: /social-shares/
 ---
 Every week, you pour endless hours into creating powerful and original content for your blog.
 
