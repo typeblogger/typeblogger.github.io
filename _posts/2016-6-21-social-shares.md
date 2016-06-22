@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 76 Surefire Ways to Get More Social Shares (And More Traffic)
+description: Want more social shares and traffic on your blog? Here are some surefire ways to encourage social sharing.
 comments: true
 published: true
 feature-img: img/traffic.jpg
@@ -85,7 +86,7 @@ If you can think of a way to increase your social shares that we missed, please 
 ## 21 Ways to Get More Social Shares on Twitter
 
 1. Add a share button to your blog (using a tool that allows you to include your Twitter handle works best)
-2. Include ‘Please Retweet’ at the beginning of your Tweet to generate as much as 4x more ReTweets
+2. Include ‘Please Retweet’ at the beginning of your Tweet to generate as much as 4x more retweets
 3. @mention influencers that you included in your content
 4. @mention any individual or company that you have included in your content
 5. Use a tool like [Followerwonk](http://followerwonk.com) or Manage Flitter to figure out the best times to post (lots of people have shared this type of data but it works best based on your followers)
@@ -115,8 +116,8 @@ If you can think of a way to increase your social shares that we missed, please 
 3. Include a sub title in italics by adding underscores either side of your sub title, e.g. - _sub title_
 4. Tag niche influencers in your G+ post (when relevant)
 5. Share infographics
-6. Stop sharing your posts directly with your circles - this usually gets you muted, good luck once that happens
-7. Create a targeted circle of people that want updates about your content – H/T to Mike Allton for this one
+6. Stop sharing your posts directly with your circles - this usually gets you muted, good luck to you once that happens
+7. Create a targeted circle of people that want updates about your content
 8. Embed G+ posts in your content
 9. Create a unique post that adds value that cannot be found within the content on your blog
 10. Run a regular HOA (Hangout on Air)
