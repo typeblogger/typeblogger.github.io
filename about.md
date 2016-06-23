@@ -26,10 +26,10 @@ I started this blog because I love helping people like you create successful blo
 
 Is this your first time here? Check out these articles to get a feel of my blog!
 
-* [5 Steps to an Engaging Website Design](https://typeblogger.github.io/2016/06/01/engaging-website-design/)
+* [76 Surefire Ways to Get More Social Shares (And More Traffic)](https://typeblogger.github.io/social-shares/)
 * [3 Ways to Stop Comment Spam (Before It Kills Your Blog)](https://typeblogger.github.io/2016/05/30/stop-comment-spam/)
-* [3 More Warning Signs Your Free WordPress Theme is Sabotaging Your Website](https://typeblogger.github.io/2016/06/02/free-wordpress-themes/)
+* [9 Essential WordPress Plugins You Need For Your Website](https://typeblogger.github.io/2016/06/05/essential-wordpress-plugins)
 
 ## Find me on social media
 
-You can find me on [Twitter](http://twitter.com/brunotandev), [Tumblr](http://brunotandev.tumblr.com), [Pinterest](http://pinterest.com) and [Google+](https://plus.google.com/105286767710255268585). Don't be shy, do feel free to say 'Hi' to me whenever you come swinging by! I absolutely love getting to know my readers personally - it motivates me to keep writing fresh content for you folks!
+You can find me on [Twitter](http://twitter.com/brunotandev), [Tumblr](http://brunotandev.tumblr.com), [Pinterest](http://pinterest.com/brunotandev) and [Google+](https://plus.google.com/105286767710255268585). Don't be shy, do feel free to say 'Hi' to me whenever you come swinging by! I absolutely love getting to know my readers personally - it motivates me to keep writing fresh content for you folks!
