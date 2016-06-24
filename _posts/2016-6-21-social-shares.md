@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 76 Surefire Ways to Get More Social Shares (And More Traffic)
-description: Want more social shares and traffic on your blog? Here are some surefire ways to encourage social sharing.
+description: >-
+  Want more social shares and traffic on your blog? Here are some surefire ways
+  to encourage social sharing.
 comments: true
 published: true
 feature-img: img/traffic.jpg
@@ -151,7 +153,7 @@ If you can think of a way to increase your social shares that we missed, please 
 2. Promote your old (evergreen) content regularly
 3. Maintain a level of trust (people share content that looks trust worthy)
 4. Share content that solves your audience’s problems
-5. Map your content to your audience personas – I talk about this in more detail here
+5. Map your content to your audience personas
 6. Publish more detailed and higher quality content
 7. Run a giveaway using a tool like [Rafflecopter](http://rafflecopter.com)
 8. How to and list posts can get up to 47% more shares [source]
