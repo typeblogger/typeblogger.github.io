@@ -1,13 +1,32 @@
 ---
 layout: post
-title: X Blog Promotion Tips From Incredibly Successful Bloggers
+title: 6 Blog Promotion Tips From Incredibly Successful Bloggers
 comments: true
 published: false
 author: bruno
 ---
-How do you promote your blog? That is a _huge_ question most bloggers and content marketers are faced with.
+Content marketing is different these days. Anyone could publish a blog post on, well, just about anything, and they'd at least get a tiny trickle of traffic.
 
-Creating great content is only part of the content marketing battle, and it isn't the part that matters if no one ever sees your work. Successful distribution is the most critical part of a content marketer's job, and the more companies jump on the content marketing bandwagon, the more creative and clever your promotional strategies have to become.
+But now? Nope, you won’t get any.
+
+As more and more marketers start to understand how effective content marketing can be, content creation levels are at an all time high. This has resulted in a phenomenon known as “content shock.”
+
+So now, if you want to really succeed, you need to do two things:
+
+* Create amazing content
+* Promote it
+
+You need to find the people who would find your content useful and get it in front of them.
+
+The more you promote a piece of content, the higher your return will be from it.
+
+But there’s another issue:
+
+Content promotion takes a lot of time.
+
+In many cases, it takes longer than it does to create the content itself.
+
+This means efficiency is key.
 
 That's why I've invited X successful bloggers to share their tips and insights on crafting an effective blog promotion strategy that sets you up for content marketing success and helps your content reach more eyes.
 
@@ -77,3 +96,9 @@ In paid content promotion on Facebook and Twitter, the reach and cost of your pr
 <img src="{{site.baseurl}}/img/peter-sandeen.jpeg" alt="Peter Sandeen" height="216px">
 
 People usually forget that it’s not hard to get huge numbers of people to a piece of content…if the traffic leads to predictable revenue. When each article leads visitors to a funnel (that converts people to customers), you have plenty of effective options to choose from. Advertising is the most obvious, but joint ventures etc. are also relatively easy to use. But all that only happens if you have a funnel in place that does its job ;)
+
+---
+
+**Rick Ramos from [HealthJoy](http://healthjoy.com)
+
+Their are two things that will really get your content shared above all else; your headline and featured image. When your creating content, spend time to create several headlines and pick the one that you feel is most irresistible to click. Your headline shouldn’t be misleading nor fall into the realm of clickbait but it should speak about the pain points or hook your covering. I’ll usually write 8-10 headlines quickly and slowly weed them down. If your website already has a decent level of traffic, you can also test an A/B headline testing plugin to narrow it down scientifically. Your featured image is the second most important thing for your content. Just think, when you share something on social media, the featured image takes 2/3 of the space for your social shares.  You need something eye catching and that captures someones imagination. Stay away from cheesy royalty free images and try to find something more authentic. Please, no group of business people jumping up with a white background.
