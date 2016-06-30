@@ -6,7 +6,7 @@ feature-img: img/background1.png
 published: true
 ---
 
-Hey there, I'm [Bruno](http://twitter.com/brunotandev). Welcome to Typeblogger, where I share actionable strategies to help smart bloggers like you grow a successful blog. I'm so glad you came here!
+Hey there, I'm [Bruno](https://brunotandev.github.io). Welcome to Typeblogger, where I share actionable strategies to help smart bloggers like you grow a successful blog. I'm so glad you came here!
 
 ## Who this blog is for
 
@@ -29,4 +29,4 @@ Is this your first time here? Check out these articles to get a feel of my blog!
 
 ## Find me on social media
 
-You can find me on [Twitter](http://twitter.com/brunotandev), [Tumblr](http://brunotandev.tumblr.com), [Pinterest](http://pinterest.com/brunotandev) and [Google+](https://plus.google.com/105286767710255268585). Don't be shy, do feel free to say 'Hi' to me whenever you come swinging by! I absolutely love getting to know my readers personally - it motivates me to keep writing fresh content for you folks!
+You can find me on [Twitter](http://twitter.com/brunotandev), [Tumblr](http://brunotandev.tumblr.com), [Pinterest](http://pinterest.com/brunotandev), [Google+](https://plus.google.com/105286767710255268585) and on my [personal website](https://brunotandev.github.io/). Don't be shy, do feel free to say 'Hi' to me whenever you come swinging by! I absolutely love getting to know my readers personally - it motivates me to keep writing fresh content for you folks!
