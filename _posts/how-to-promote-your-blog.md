@@ -5,32 +5,19 @@ comments: true
 published: false
 author: bruno
 ---
-Content marketing is different these days. Anyone could publish a blog post on, well, just about anything, and they'd at least get a tiny trickle of traffic.
+Content marketing is different these days. In the good old days, anyone could publish a blog post on, well, just about anything, and they'd at least get a tiny trickle of traffic.
 
-But now? Nope, you won’t get any.
+But now? Sorry, but you won’t get any.
 
-As more and more marketers start to understand how effective content marketing can be, content creation levels are at an all time high. This has resulted in a phenomenon known as “content shock.”
+As more and more people start to understand how effective content marketing can be, content creation levels are at an all time high. _Millions_ of blog posts are published on the Internet every day.
 
-So now, if you want to really succeed, you need to do two things:
+So now, if you want to really succeed, you need to create an amazing piece of content, and then promote the heck out of it. 
 
-* Create amazing content
-* Promote it
+But wait - how do you even promote your content in the first place?
 
-You need to find the people who would find your content useful and get it in front of them.
+That's why I've invited 10 successful bloggers to share their tips and insights on crafting an effective blog promotion strategy that helps your content reach more eyes.
 
-The more you promote a piece of content, the higher your return will be from it.
-
-But there’s another issue:
-
-Content promotion takes a lot of time.
-
-In many cases, it takes longer than it does to create the content itself.
-
-This means efficiency is key.
-
-That's why I've invited X successful bloggers to share their tips and insights on crafting an effective blog promotion strategy that sets you up for content marketing success and helps your content reach more eyes.
-
-Without further ado, here are the experts! Click on the links below to go to your favourite experts, or just get ready to keep scrolling!
+Without further ado, here are the experts! Click on the links below to go to your favourite experts, or just read through the entire thing! 
 
 **Tim Bourquin from [AfterOffers](https://afteroffers.com)**
 
@@ -91,6 +78,16 @@ In paid content promotion on Facebook and Twitter, the reach and cost of your pr
 
 ---
 
+**Cendrine Marrouat**
+
+I see a dangerous focus on follower numbers and virality these days. Bloggers and content marketers tend to create clickbaity and empty posts rather than really helpful stuff. 
+
+Writing content with a view to attracting attention from new readers is important, of course. However, there is something right in front of you that matters even more: Those who already read and engage with your blog. Cementing your relationship with them will do more for your bottom line than any other trick in the book.  
+
+So, stop begging for RTs on Twitter. Instead, provide your current readers with consistently great answers to their questions. The promotion will then happen naturally.
+
+---
+
 **Peter Sandeen from [PeterSandeen](http://www.petersandeen.com/)**
 
 <img src="{{site.baseurl}}/img/peter-sandeen.jpeg" alt="Peter Sandeen" height="216px">
@@ -99,6 +96,48 @@ People usually forget that it’s not hard to get huge numbers of people to a pi
 
 ---
 
+**Charlie Day**
+
+If I feel that a particular piece did not get the exposure it deserves the first time around, I will try reshuffling the text, changing the headline and swapping the image for a new one. This will usually yield a stronger wave of exposure the second time around. Your article headline and image are the two factors that will gain traction so if these are combined with good hashtags then you should get the content exposure you deserve. This technique also allows you to recycle evergreen content... great for busy marketers!
+
+---
+
 **Rick Ramos from [HealthJoy](http://healthjoy.com)
 
 Their are two things that will really get your content shared above all else; your headline and featured image. When your creating content, spend time to create several headlines and pick the one that you feel is most irresistible to click. Your headline shouldn’t be misleading nor fall into the realm of clickbait but it should speak about the pain points or hook your covering. I’ll usually write 8-10 headlines quickly and slowly weed them down. If your website already has a decent level of traffic, you can also test an A/B headline testing plugin to narrow it down scientifically. Your featured image is the second most important thing for your content. Just think, when you share something on social media, the featured image takes 2/3 of the space for your social shares.  You need something eye catching and that captures someones imagination. Stay away from cheesy royalty free images and try to find something more authentic. Please, no group of business people jumping up with a white background.
+
+---
+
+**Tor Refsland**
+
+My number one tip in order to promote your content more effectively is...
+
+build genuine relationship with peers and influencers.
+
+Not because you want them to share your stuff, but because you want to get to know them.
+
+In the future, when you have an awesome post that is a GREAT fit for the influencer and their audience, send them a polite and mail and let them know about it.
+
+That is what Neil Patel did in the start to get influencers to promote his content...
+
+and Jon Morrow...
+
+---
+
+**Mike Allton**
+
+While I've written extensively on how to promote blog posts (https://www.thesocialmediahat.com/article/blog-promotionology-art-science-blog-promotion), the one major tip that I have to give bloggers is make sure that you're promoting your content more than once. It's OK, it's not your fault you've been told you need to spend more time writing than promoting. 
+
+But the truth is, tweeting out one link to your latest blog post simply isn't going to cut it. Most of your audience won't see that update. Instead, you need to share to social and email many times in many different ways. You need to make sure that you're reaching new audience members - people who might not have been following you the first time you shared, or people who might have seen the share but not have needed the information initially.
+
+Ideally, your best pieces of content will be in a queue for you to routinely re-share to social media. And autoresponders are a great way to ensure that you best pieces of content are shared with new email subscribers.
+
+Just make sure that you don't stop promoting your blog posts!
+
+---
+
+**Andrea Jones**
+
+I find that simply focusing on promoting blog content is where many hopeful online marketers make a huge mistake. In today's world, there are so many people promoting their latest content online through social media, ads, webinars, etc. It's tough to stand out.
+
+My tip for not looking like the next guy is to focus on building relationships. Those relationships can be with others in similar niches or potential readers. Once you start using your personality to attract users, then you've got the chance to build trust with them. Those who trust and like you will be more likely to not only read your new content, but also share it with a friend.
