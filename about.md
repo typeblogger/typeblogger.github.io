@@ -6,14 +6,11 @@ feature-img: img/background1.png
 published: true
 ---
 
-Hey there, I'm [Bruno](http://twitter.com/brunotandev). Welcome to Typeblogger, where you can find me and my team giving practical advice about blogging and content marketing for smart people just like you. I'm so glad you came here!
-
-
+Hey there, I'm [Bruno](http://twitter.com/brunotandev). Welcome to Typeblogger, where I share actionable strategies to help smart bloggers like you grow a successful blog. I'm so glad you came here!
 
 ## Who this blog is for
 
 If you've ever asked yourself these questions:
-
 
 * How do I make money from my blog?
 * How can I sell my own products and services without feeling pushy?
