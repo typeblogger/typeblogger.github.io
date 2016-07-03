@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How To Promote Your Blog''s Content: 11 Experts Share Their Tips & Insights'
+title: 'How To Promote Your Blog''s Content: 12 Experts Share Their Tips & Insights'
 comments: true
 published: false
 author: bruno
@@ -78,7 +78,7 @@ In paid content promotion on Facebook and Twitter, the reach and cost of your pr
 
 ---
 
-**Cendrine Marrouat from**
+**Cendrine Marrouat from [Social Media Slant](http://socialmediaslant.com)**
 
 I see a dangerous focus on follower numbers and virality these days. Bloggers and content marketers tend to create clickbaity and empty posts rather than really helpful stuff. 
 
@@ -96,7 +96,7 @@ People usually forget that it’s not hard to get huge numbers of people to a pi
 
 ---
 
-**Charlie Day from**
+**Charlie Day from [CharliSays](http://charlisays.com)**
 
 If I feel that a particular piece did not get the exposure it deserves the first time around, I will try reshuffling the text, changing the headline and swapping the image for a new one. This will usually yield a stronger wave of exposure the second time around. Your article headline and image are the two factors that will gain traction so if these are combined with good hashtags then you should get the content exposure you deserve. This technique also allows you to recycle evergreen content... great for busy marketers!
 
@@ -108,7 +108,7 @@ Their are two things that will really get your content shared above all else; yo
 
 ---
 
-**Tor Refsland from**
+**Tor Refsland from [Time Management Chef](http://timemanagementchef.com)**
 
 My number one tip in order to promote your content more effectively is...
 
@@ -124,7 +124,7 @@ and Jon Morrow...
 
 ---
 
-**Mike Allton from**
+**Mike Allton from [The Social Media Hat](https://www.thesocialmediahat.com)**
 
 While I've written extensively on how to promote blog posts (https://www.thesocialmediahat.com/article/blog-promotionology-art-science-blog-promotion), the one major tip that I have to give bloggers is make sure that you're promoting your content more than once. It's OK, it's not your fault you've been told you need to spend more time writing than promoting. 
 
@@ -136,7 +136,7 @@ Just make sure that you don't stop promoting your blog posts!
 
 ---
 
-**Andrea Jones from**
+**Andrea Jones from [OnlineDrea] (http://onlinedrea.com)**
 
 I find that simply focusing on promoting blog content is where many hopeful online marketers make a huge mistake. In today's world, there are so many people promoting their latest content online through social media, ads, webinars, etc. It's tough to stand out.
 
