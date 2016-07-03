@@ -56,7 +56,7 @@ Milk that cow for as much as you can!
 
 **Jason Acidre from [KaiserTheSage](http://kaiserthesage.com/)**
 
-<img src="({{site.baseurl}}/img/kaiserthesage.jpeg)" alt="Jason Acidre" height="216px">
+<img src="{{site.baseurl}}/img/kaiserthesage.jpeg)" alt="Jason Acidre" height="216px">
 
 Target sites/people who have already linked to or shared a content that covers the same topic as yours in the past. There'll be a higher likelihood of getting them to share or link to your content as well based on their historical activities, and this approach will mostly be effective if your content appears to be more valuable than the ones they've previously linked to or shared via social media. For a more detailed instruction to this approach for outreach, you can also check out a post I've written a few years back on [linker outreach](http://kaiserthesage.com/linker-outreach/).
 
@@ -96,7 +96,9 @@ People usually forget that it’s not hard to get huge numbers of people to a pi
 
 ---
 
-**Charlie Day from [CharliSays](http://charlisays.com)**
+**Charli Day from [CharliSays](http://charlisays.com)**
+
+<img src="{{site.baseurl}}/img/charli-day.jpeg" alt="Charli Day" height="216px">
 
 If I feel that a particular piece did not get the exposure it deserves the first time around, I will try reshuffling the text, changing the headline and swapping the image for a new one. This will usually yield a stronger wave of exposure the second time around. Your article headline and image are the two factors that will gain traction so if these are combined with good hashtags then you should get the content exposure you deserve. This technique also allows you to recycle evergreen content... great for busy marketers!
 
@@ -104,11 +106,15 @@ If I feel that a particular piece did not get the exposure it deserves the first
 
 **Rick Ramos from [HealthJoy](http://healthjoy.com)
 
+<img src="{{site.baseurl}}/img/rick-ramos.jpg" alt="Rick Ramos" height="216px">
+
 Their are two things that will really get your content shared above all else; your headline and featured image. When your creating content, spend time to create several headlines and pick the one that you feel is most irresistible to click. Your headline shouldn’t be misleading nor fall into the realm of clickbait but it should speak about the pain points or hook your covering. I’ll usually write 8-10 headlines quickly and slowly weed them down. If your website already has a decent level of traffic, you can also test an A/B headline testing plugin to narrow it down scientifically. Your featured image is the second most important thing for your content. Just think, when you share something on social media, the featured image takes 2/3 of the space for your social shares.  You need something eye catching and that captures someones imagination. Stay away from cheesy royalty free images and try to find something more authentic. Please, no group of business people jumping up with a white background.
 
 ---
 
 **Tor Refsland from [Time Management Chef](http://timemanagementchef.com)**
+
+<img src="{{site.baseurl}}/img/tor-refsland.jpg" alt="Tor Refsland" height="216px">
 
 My number one tip in order to promote your content more effectively is...
 
@@ -126,6 +132,8 @@ and Jon Morrow...
 
 **Mike Allton from [The Social Media Hat](https://www.thesocialmediahat.com)**
 
+<img src="{{site.baseurl}}/img/mike-allton.jpg" alt="Mike Allton" height="216px">
+
 While I've written extensively on how to promote blog posts (https://www.thesocialmediahat.com/article/blog-promotionology-art-science-blog-promotion), the one major tip that I have to give bloggers is make sure that you're promoting your content more than once. It's OK, it's not your fault you've been told you need to spend more time writing than promoting. 
 
 But the truth is, tweeting out one link to your latest blog post simply isn't going to cut it. Most of your audience won't see that update. Instead, you need to share to social and email many times in many different ways. You need to make sure that you're reaching new audience members - people who might not have been following you the first time you shared, or people who might have seen the share but not have needed the information initially.
@@ -136,7 +144,9 @@ Just make sure that you don't stop promoting your blog posts!
 
 ---
 
-**Andrea Jones from [OnlineDrea] (http://onlinedrea.com)**
+**Andréa Jones from [OnlineDrea] (http://onlinedrea.com)**
+
+<img src="{{site.baseurl}}/img/andrea-jones.jpg" alt="Andréa Jones" height="216px">
 
 I find that simply focusing on promoting blog content is where many hopeful online marketers make a huge mistake. In today's world, there are so many people promoting their latest content online through social media, ads, webinars, etc. It's tough to stand out.
 
@@ -145,6 +155,8 @@ My tip for not looking like the next guy is to focus on building relationships. 
 ---
 
 **Adam Connel from [AdamConnel.me](http://adamconnel.me)**
+
+<img src="{{site.baseurl}}/img/adam-connel.png" alt="Adam Connel" height="216px">
 
 For most, promoting a piece of content is an after thought. And that's how I treated it for a long time.
 
