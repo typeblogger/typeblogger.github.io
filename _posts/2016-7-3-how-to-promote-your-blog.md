@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 'How To Promote Your Blog''s Content: 12 Experts Share Their Tips & Insights'
+title: 'How To Promote Your Blog's Content: 12 Experts Share Their Tips & Insights'
 comments: true
 published: false
+feature-img: img/macbook_iphone.jpeg
 author: bruno
 ---
+
 Content marketing is different these days. In the past, anyone could publish a blog post on, well, just about anything, and they'd at least get a tiny trickle of traffic.
 
 But now? Sorry, but you won’t get any.
@@ -13,11 +15,15 @@ As more and more people start to understand how effective content marketing can 
 
 So now, if you want to really succeed, you need to create an amazing piece of content, and then promote the heck out of it. 
 
-But wait - how do you even promote your content in the first place? 
+But how do you even promote your content in the first place? This is a big question most bloggers are faced with.
 
-That's why I've invited 10 experts to share their tips and insights on crafting an effective blog promotion strategy that helps your content reach more eyes.
+That's why I've invited 12 experts to share their tips and insights on promoting your next piece of content more effectively and help it reach more eyes.
 
 Without further ado, here are the experts! Feel free to click on the links below to go to your favourite experts.
+
+[Tim Bourqin](#timbourqin) | [Jason Acidre](#jasonacidre) | [Michael Pozdnev](#michaelpozdnev) | [Larry Kim](#larrykim) | [Cendrine Marrouat](#cendrinemarrouat) | [Peter Sandeen](#petersandeen) | [Charli Day](#charliday)  [Rick Ramos](#rickramos) | [Tor Refsland](#torrefsland) | [Mike Allton](#mikeallton) | [Andréa Jones](#andreajones) | [Adam Connel](#adamconnel)
+
+<a name="timbourqin"></a>
 
 **Tim Bourquin from [AfterOffers](https://afteroffers.com)**
 
@@ -54,6 +60,8 @@ Milk that cow for as much as you can!
 
 ---
 
+<a name="jasonacidre"></a>
+
 **Jason Acidre from [KaiserTheSage](http://kaiserthesage.com/)**
 
 <img src="{{site.baseurl}}/img/kaiserthesage.jpeg)" alt="Jason Acidre" height="216px">
@@ -62,6 +70,8 @@ Target sites/people who have already linked to or shared a content that covers t
 
 ---
 
+<a name="michaelpozdnev"></a>
+
 **Michael Pozdnev from [iWannaBeABlogger](http://iwannabeablogger.com/)**
 
 <img src="({{site.baseurl}}/img/michael-pozdnev.jpg" alt="Michael Pozdnev" height="216px">
@@ -69,6 +79,8 @@ Target sites/people who have already linked to or shared a content that covers t
 Friends, nowadays, if you’re not an influencer, to promote your content you’re gonna need support from your online friends: links, shares, comments, upvotes, etc. As for me, blogger outreach is the most effective and efficient way, but unlike other people who shared related articles on Twitter, I don’t use Buzzsumo to search for target bloggers. I search them thru commenters. Those who leave their comments on any topic are the most engaged audience. And then I start building relationships. The results have always been amazing. I only have three blog posts, but I’ve already received comments, shares, and visitors more than some experts of online marketing.
 
 ---
+
+<a name="larrykim"></a>
 
 **Larry Kim from [Wordstream](http://wordstream.com)**
 
@@ -88,6 +100,8 @@ So, stop begging for RTs on Twitter. Instead, provide your current readers with 
 
 ---
 
+<a name="petersandeen"></a>
+
 **Peter Sandeen from [PeterSandeen](http://www.petersandeen.com/)**
 
 <img src="{{site.baseurl}}/img/peter-sandeen.jpeg" alt="Peter Sandeen" height="216px">
@@ -95,6 +109,8 @@ So, stop begging for RTs on Twitter. Instead, provide your current readers with 
 People usually forget that it’s not hard to get huge numbers of people to a piece of content…if the traffic leads to predictable revenue. When each article leads visitors to a funnel (that converts people to customers), you have plenty of effective options to choose from. Advertising is the most obvious, but joint ventures etc. are also relatively easy to use. But all that only happens if you have a funnel in place that does its job ;)
 
 ---
+
+<a name="charliday"></a>
 
 **Charli Day from [CharliSays](http://charlisays.com)**
 
@@ -104,13 +120,17 @@ If I feel that a particular piece did not get the exposure it deserves the first
 
 ---
 
-**Rick Ramos from [HealthJoy](http://healthjoy.com)
+<a name="rickramos"></a>
+
+**Rick Ramos from [HealthJoy](http://healthjoy.com)**
 
 <img src="{{site.baseurl}}/img/rick-ramos.jpg" alt="Rick Ramos" height="216px">
 
 Their are two things that will really get your content shared above all else; your headline and featured image. When your creating content, spend time to create several headlines and pick the one that you feel is most irresistible to click. Your headline shouldn’t be misleading nor fall into the realm of clickbait but it should speak about the pain points or hook your covering. I’ll usually write 8-10 headlines quickly and slowly weed them down. If your website already has a decent level of traffic, you can also test an A/B headline testing plugin to narrow it down scientifically. Your featured image is the second most important thing for your content. Just think, when you share something on social media, the featured image takes 2/3 of the space for your social shares.  You need something eye catching and that captures someones imagination. Stay away from cheesy royalty free images and try to find something more authentic. Please, no group of business people jumping up with a white background.
 
 ---
+
+<a name="torrefsland"></a>
 
 **Tor Refsland from [Time Management Chef](http://timemanagementchef.com)**
 
@@ -130,6 +150,8 @@ and Jon Morrow...
 
 ---
 
+<a name="mikeallton"></a>
+
 **Mike Allton from [The Social Media Hat](https://www.thesocialmediahat.com)**
 
 <img src="{{site.baseurl}}/img/mike-allton.jpg" alt="Mike Allton" height="216px">
@@ -144,6 +166,8 @@ Just make sure that you don't stop promoting your blog posts!
 
 ---
 
+<a name="andreajones"></a>
+
 **Andréa Jones from [OnlineDrea] (http://onlinedrea.com)**
 
 <img src="{{site.baseurl}}/img/andrea-jones.jpg" alt="Andréa Jones" height="216px">
@@ -153,6 +177,8 @@ I find that simply focusing on promoting blog content is where many hopeful onli
 My tip for not looking like the next guy is to focus on building relationships. Those relationships can be with others in similar niches or potential readers. Once you start using your personality to attract users, then you've got the chance to build trust with them. Those who trust and like you will be more likely to not only read your new content, but also share it with a friend.
 
 ---
+
+<a name="adamconnel"></a>
 
 **Adam Connel from [AdamConnel.me](http://adamconnel.me)**
 
