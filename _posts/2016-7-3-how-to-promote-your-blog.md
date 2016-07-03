@@ -7,7 +7,7 @@ published: false
 feature-img: img/macbook_iphone.jpeg
 author: bruno
 ---
-Does this sound familiar to you?
+Frustrating, isn’t it?
 
 You write an awesome post, hit publish, then sit back and wait for the hordes of adoring fans to leave hundreds of comments on your site.
 
@@ -17,21 +17,27 @@ Crickets.
 
 Sound familiar?
 
-Chances are this has happened to you at least once because this is exactly how most people go around promoting their content - by spending the vast majority of their time writing it. The promotion part ends up being an afterthought.
+Chances are, this has happened to you at least once because this is how most people go around promoting their content - by spending the vast majority of their time writing it. 
 
-The funny thing is, this is exactly the opposite of what most big bloggers that have seen success are doing.
+The promotion part ends up being a mere afterthought.
 
-As Derek Halpern of Social Triggers is always quick to say:
+And the thing is, this is exactly the opposite of what most big bloggers that have seen success are doing.
+
+As Derek Halpern of [Social Triggers](http://socialtriggers.com) is always quick to say:
 
 _“It’s smarter to find another 10,000 people to consume what you’ve already created as opposed to creating more. Or, in other words, create content 20% of the time. Spend the other 80% of the time promoting what you’ve created.”_
 
-You see, it doesn’t matter how great your content is if no one knows it’s there.
+You see, it doesn’t matter how great your content is if no one even knows it’s there to begin with.
 
 The good news?
 
-We're gonna change all that.
+We're gonna change all that, right now.
 
-I've invited 12 experts to share their tips and insights on promoting your next piece of content more effectively and help it reach more eyes.
+As you have probably guessed from the headline, I've invited 12 experts to share their tips and insights on promoting your next piece of content more effectively and help it reach more eyes.
+
+I asked them the following question:
+
+### **Name one tip that bloggers and content marketers can follow in order to promote their content more effectively.**
 
 Just before you dive in though, grab this free content promotion checklist. It's packed with the essential stuff you need to do in order to effectively promote your content and get more traffic, shares and engagement.
 
