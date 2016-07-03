@@ -1,25 +1,43 @@
 ---
 layout: post
-title: 'How To Promote Your Blog's Content: 12 Experts Share Their Tips & Insights'
+title: 'How To Promote Your Blog: 12 Experts Share Their Tips & Insights'
+s Content: 12 Experts Share Their Tips & Insights'
 comments: true
 published: false
 feature-img: img/macbook_iphone.jpeg
 author: bruno
 ---
+Does this sound familiar to you?
 
-Content marketing is different these days. In the past, anyone could publish a blog post on, well, just about anything, and they'd at least get a tiny trickle of traffic.
+You write an awesome post, hit publish, then sit back and wait for the hordes of adoring fans to leave hundreds of comments on your site.
 
-But now? Sorry, but you won’t get any.
+Except…
 
-As more and more people start to understand how effective content marketing can be, content creation levels are at an all time high. _Gazillions_ of blog posts are published on the Internet every day.
+Crickets.
 
-So now, if you want to really succeed, you need to create an amazing piece of content, and then promote the heck out of it. 
+Sound familiar?
 
-But how do you even promote your content in the first place? This is a big question most bloggers are faced with.
+Chances are this has happened to you at least once because this is exactly how most people go around promoting their content - by spending the vast majority of their time writing it. The promotion part ends up being an afterthought.
 
-That's why I've invited 12 experts to share their tips and insights on promoting your next piece of content more effectively and help it reach more eyes.
+The funny thing is, this is exactly the opposite of what most big bloggers that have seen success are doing.
 
-Without further ado, here are the experts! Feel free to click on the links below to go to your favourite experts.
+As Derek Halpern of Social Triggers is always quick to say:
+
+_“It’s smarter to find another 10,000 people to consume what you’ve already created as opposed to creating more. Or, in other words, create content 20% of the time. Spend the other 80% of the time promoting what you’ve created.”_
+
+You see, it doesn’t matter how great your content is if no one knows it’s there.
+
+The good news?
+
+We're gonna change all that.
+
+I've invited 12 experts to share their tips and insights on promoting your next piece of content more effectively and help it reach more eyes.
+
+Just before you dive in though, grab this free content promotion checklist. It's packed with the essential stuff you need to do in order to effectively promote your content and get more traffic, shares and engagement.
+
+Without further ado, here are the experts! 
+
+(Click on the links below to go directly to the experts.)
 
 [Tim Bourqin](#timbourqin) | [Jason Acidre](#jasonacidre) | [Michael Pozdnev](#michaelpozdnev) | [Larry Kim](#larrykim) | [Cendrine Marrouat](#cendrinemarrouat) | [Peter Sandeen](#petersandeen) | [Charli Day](#charliday)  [Rick Ramos](#rickramos) | [Tor Refsland](#torrefsland) | [Mike Allton](#mikeallton) | [Andréa Jones](#andreajones) | [Adam Connel](#adamconnel)
 
@@ -193,3 +211,7 @@ So when you're planning your next post, ask yourself - "how can I promote this p
 Are there influencers you can mention? or hit up for a quick quote? what about building anticipation for the post on social media? or can you think of something more creative?
 
 The bottom line: bake content promotion right into your content creation process and you'll gain far more traction.
+
+## Next Steps
+
+
