@@ -23,6 +23,8 @@ The promotion part ends up being a mere afterthought.
 
 And the thing is, this is exactly the opposite of what most big bloggers that have seen success are doing.
 
+<!excerpt-->
+
 As Derek Halpern of [Social Triggers](http://socialtriggers.com) is always quick to say:
 
 _“It’s smarter to find another 10,000 people to consume what you’ve already created as opposed to creating more. Or, in other words, create content 20% of the time. Spend the other 80% of the time promoting what you’ve created.”_
