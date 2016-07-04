@@ -5,7 +5,7 @@ permalink: /blog-promotion/
 comments: true
 published: true
 feature-img: img/macbook_iphone.jpeg
-author: bruno
+author: brunotandev
 ---
 Frustrating, isn’t it?
 
@@ -23,7 +23,7 @@ The promotion part ends up being a mere afterthought.
 
 And the thing is, this is exactly the opposite of what most big bloggers that have seen success are doing.
 
-<!excerpt-->
+<!--excerpt-->
 
 As Derek Halpern of [Social Triggers](http://socialtriggers.com) is always quick to say:
 
