@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "12 Experts Share Their #1 Content Promotion Tips to Get More Traffic"
+title: "13 Experts Share Their #1 Content Promotion Tips to Get More Traffic"
 permalink: /blog-promotion/
 comments: true
 published: true
@@ -35,11 +35,13 @@ The good news?
 
 We're gonna change all that, right now.
 
-As you have probably guessed from the headline, I've invited 12 experts to share their tips and insights on promoting your next piece of content more effectively and help it reach more eyes.
+As you have probably guessed from the headline, I've invited 13 experts to share their tips and insights on promoting your next piece of content more effectively and help it reach more eyes.
 
 I asked them the following question:
 
 ### **Name one tip that bloggers and content marketers can follow in order to promote their content more effectively.**
+
+<img src="{{site.baseurl}}/img/content-promotion.jpg" alt="Content Promotion">
 
 Just before you dive in though, grab this [free content promotion checklist](http://www.paywithapost.de/pay?id=40f72e17-6bde-457d-a554-4eaa0d3164b9). It's packed with all the essential stuff you need to do after hitting publish on your next piece of content. Also, it's completely free, so why not get it now?
 
@@ -47,7 +49,7 @@ Without further ado, here are the experts!
 
 (Click on the links below to go directly to the experts.)
 
-<p><a href="#timbourqin">Tim Bourqin</a> | <a href="#jasonacidre">Jason Acidre</a> | <a href="#michaelpozdnev">Michael Pozdnev</a> | <a href="#larrykim">Larry Kim</a> | <a href="#cendrinemarrouat">Cendrine Marrouat</a> | <a href="#petersandeen">Peter Sandeen</a> | <a href="#charliday">Charli Day</a>  <a href="#rickramos">Rick Ramos</a> | <a href="#torrefsland">Tor Refsland</a> | <a href="#mikeallton">Mike Allton</a> | <a href="#andreajones">Andréa Jones</a> | <a href="#adamconnel">Adam Connel</a></p>
+<p><a href="#timbourqin">Tim Bourqin</a> | <a href="#jasonacidre">Jason Acidre</a> | <a href="#michaelpozdnev">Michael Pozdnev</a> | <a href="#larrykim">Larry Kim</a> | <a href="#cendrinemarrouat">Cendrine Marrouat</a> | <a href="#petersandeen">Peter Sandeen</a> | <a href="#charliday">Charli Day</a>  <a href="#rickramos">Rick Ramos</a> | <a href="#torrefsland">Tor Refsland</a> | <a href="#mikeallton">Mike Allton</a> | <a href="#andreajones">Andréa Jones</a> | <a href="#adamconnel">Adam Connel</a> | <a href="#allisonboyer">Allison Boyer</a></p>
 
 <a name="timbourqin"></a>
 
@@ -219,6 +221,16 @@ So when you're planning your next post, ask yourself - "how can I promote this p
 Are there influencers you can mention? or hit up for a quick quote? what about building anticipation for the post on social media? or can you think of something more creative?
 
 The bottom line: bake content promotion right into your content creation process and you'll gain far more traction.
+
+---
+
+<a name="allisonboyer"></a>
+
+**Allison Boyer from [AllisonBoyer.com](http://allisonboyer.com)**
+
+<img src="{{site.baseurl}}/img/allison-boyer.jpg" alt="Allison Boyer" height="216px">
+
+Network with other bloggers so they will promote your content for you. Facebook groups are great for connecting with like-minded bloggers who are looking for content to promote. Search for engagement groups and link-sharing groups, then become an active member of the community. Don't just drop your link and leave! Share others' links, answer questions, and be helpful. Then, it is as easy as writing great content and ask others in the group to promote it.
 
 ## Conclusion
 
