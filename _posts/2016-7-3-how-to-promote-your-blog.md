@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'How To Promote Your Blog: 12 Experts Share Their Tips & Insights'
-s Content: 12 Experts Share Their Tips & Insights'
+title: "How To Promote Your Blog's Content: 12 Experts Share Their Tips & Insights"
+permalink: /blog-promotion/
 comments: true
 published: false
 feature-img: img/macbook_iphone.jpeg
