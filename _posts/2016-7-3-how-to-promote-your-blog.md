@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "How To Promote Your Blog's Content: 12 Experts Share Their Tips & Insights"
+title: "12 Experts Share Their #1 Content Promotion Tips to Get More Traffic"
 permalink: /blog-promotion/
 comments: true
-published: false
+published: true
 feature-img: img/macbook_iphone.jpeg
 author: bruno
 ---
