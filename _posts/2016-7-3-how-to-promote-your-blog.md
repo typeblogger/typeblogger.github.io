@@ -122,8 +122,7 @@ In paid content promotion on Facebook and Twitter, the reach and cost of your pr
 
 **Cendrine Marrouat from [Social Media Slant](http://socialmediaslant.com)**
 
-
-
+<img src="{{site.baseurl}}/img/cendrine-marrouat.jpg" alt="Cendrine Marrouat" height="216px">
 
 I see a dangerous focus on follower numbers and virality these days. Bloggers and content marketers tend to create clickbaity and empty posts rather than really helpful stuff. 
 
