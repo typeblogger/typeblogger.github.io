@@ -47,7 +47,7 @@ Without further ado, here are the experts!
 
 (Click on the links below to go directly to the experts.)
 
-[Tim Bourqin](#timbourqin) | [Jason Acidre](#jasonacidre) | [Michael Pozdnev](#michaelpozdnev) | [Larry Kim](#larrykim) | [Cendrine Marrouat](#cendrinemarrouat) | [Peter Sandeen](#petersandeen) | [Charli Day](#charliday)  [Rick Ramos](#rickramos) | [Tor Refsland](#torrefsland) | [Mike Allton](#mikeallton) | [Andréa Jones](#andreajones) | [Adam Connel](#adamconnel)
+<p>[Tim Bourqin](#timbourqin) | [Jason Acidre](#jasonacidre) | [Michael Pozdnev](#michaelpozdnev) | [Larry Kim](#larrykim) | [Cendrine Marrouat](#cendrinemarrouat) | [Peter Sandeen](#petersandeen) | [Charli Day](#charliday)  [Rick Ramos](#rickramos) | [Tor Refsland](#torrefsland) | [Mike Allton](#mikeallton) | [Andréa Jones](#andreajones) | [Adam Connel](#adamconnel)</p>
 
 <a name="timbourqin"></a>
 
