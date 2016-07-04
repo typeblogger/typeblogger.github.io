@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "13 Experts Share Their #1 Content Promotion Tips to Get More Traffic"
+title: '13 Experts Share Their #1 Content Promotion Tips to Get More Traffic'
 permalink: /blog-promotion/
 comments: true
 published: true
@@ -118,7 +118,12 @@ In paid content promotion on Facebook and Twitter, the reach and cost of your pr
 
 ---
 
+<a name="cendrinemarrouat"></a>
+
 **Cendrine Marrouat from [Social Media Slant](http://socialmediaslant.com)**
+
+
+
 
 I see a dangerous focus on follower numbers and virality these days. Bloggers and content marketers tend to create clickbaity and empty posts rather than really helpful stuff. 
 
