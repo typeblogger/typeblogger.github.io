@@ -39,9 +39,11 @@ I asked them the following question:
 
 ### **Name one tip that bloggers and content marketers can follow in order to promote their content more effectively.**
 
-Just before you dive in though, grab this free content promotion checklist. It's packed with the essential stuff you need to do in order to effectively promote your content and get more traffic, shares and engagement.
+Just before you dive in though, grab this [free content promotion checklist](http://www.paywithapost.de/pay?id=40f72e17-6bde-457d-a554-4eaa0d3164b9). It's packed with all the essential stuff you need to do after hitting publish on your next piece of content. Also, it's completely free, so why not get it now?
 
 Without further ado, here are the experts! 
+
+![Content Promotion]({{site.baseurl}}/img/content-promotion.jpg)
 
 (Click on the links below to go directly to the experts.)
 
@@ -218,6 +220,20 @@ Are there influencers you can mention? or hit up for a quick quote? what about b
 
 The bottom line: bake content promotion right into your content creation process and you'll gain far more traction.
 
+## Conclusion
+
+Finished going through this post? Great!
+
+I would strongly advise you to bookmark this page for future reference, because these simple pieces of advice can help you promote your content more effectively and gain more traction for your blog.
+
+However, as Napoleon Hill said: “Knowledge is not power. Application of knowledge is power.”
+
+It doesn't matter if you know all the best content promotion tips, if you don't **implement** them and use them on your blog.
+
+Try picking 1 promotion tip that you aren't already using on your blog and implement it today, then let me know how it worked out by [shooting me an email](/contact) - I would be stoked to know about your progress!
+
 ## Next Steps
 
+Don't forget to grab my [free content promotion checklist](http://www.paywithapost.de/pay?id=40f72e17-6bde-457d-a554-4eaa0d3164b9) that's packed with all the essential stuff you need to do after hitting publish.
 
+If you enjoyed this post, please do share it with your followers on social media. Thanks a bunch for your help!
