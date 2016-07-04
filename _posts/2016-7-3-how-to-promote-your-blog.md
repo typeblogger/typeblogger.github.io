@@ -41,7 +41,7 @@ I asked them the following question:
 
 ### **Name one tip that bloggers and content marketers can follow in order to promote their content more effectively.**
 
-<img src="{{site.baseurl}}/img/content-promotion.jpg" alt="Content Promotion" height="39em">
+<img src="{{site.baseurl}}/img/content-promotion.jpg" alt="Content Promotion" height="576px">
 
 Just before you dive in though, grab this [free content promotion checklist](http://www.paywithapost.de/pay?id=40f72e17-6bde-457d-a554-4eaa0d3164b9). It's packed with all the essential stuff you need to do after hitting publish on your next piece of content. Also, it's completely free, so why not get it now?
 
