@@ -43,9 +43,7 @@ I asked them the following question:
 
 Just before you dive in though, grab this [free content promotion checklist](http://www.paywithapost.de/pay?id=40f72e17-6bde-457d-a554-4eaa0d3164b9). It's packed with all the essential stuff you need to do after hitting publish on your next piece of content. Also, it's completely free, so why not get it now?
 
-Without further ado, here are the experts! 
-
-![Content Promotion]({{site.baseurl}}/img/content-promotion.jpg)
+Without further ado, here are the experts!
 
 (Click on the links below to go directly to the experts.)
 
@@ -92,7 +90,7 @@ Milk that cow for as much as you can!
 
 **Jason Acidre from [KaiserTheSage](http://kaiserthesage.com/)**
 
-<img src="{{site.baseurl}}/img/kaiserthesage.jpeg)" alt="Jason Acidre" height="216px">
+<img src="{{site.baseurl}}/img/kaiserthesage.jpeg" alt="Jason Acidre" height="216px">
 
 Target sites/people who have already linked to or shared a content that covers the same topic as yours in the past. There'll be a higher likelihood of getting them to share or link to your content as well based on their historical activities, and this approach will mostly be effective if your content appears to be more valuable than the ones they've previously linked to or shared via social media. For a more detailed instruction to this approach for outreach, you can also check out a post I've written a few years back on [linker outreach](http://kaiserthesage.com/linker-outreach/).
 
@@ -102,7 +100,7 @@ Target sites/people who have already linked to or shared a content that covers t
 
 **Michael Pozdnev from [iWannaBeABlogger](http://iwannabeablogger.com/)**
 
-<img src="({{site.baseurl}}/img/michael-pozdnev.jpg" alt="Michael Pozdnev" height="216px">
+<img src="{{site.baseurl}}/img/michael-pozdnev.jpg" alt="Michael Pozdnev" height="216px">
 
 Friends, nowadays, if you’re not an influencer, to promote your content you’re gonna need support from your online friends: links, shares, comments, upvotes, etc. As for me, blogger outreach is the most effective and efficient way, but unlike other people who shared related articles on Twitter, I don’t use Buzzsumo to search for target bloggers. I search them thru commenters. Those who leave their comments on any topic are the most engaged audience. And then I start building relationships. The results have always been amazing. I only have three blog posts, but I’ve already received comments, shares, and visitors more than some experts of online marketing.
 
@@ -196,7 +194,7 @@ Just make sure that you don't stop promoting your blog posts!
 
 <a name="andreajones"></a>
 
-**Andréa Jones from [OnlineDrea] (http://onlinedrea.com)**
+**Andréa Jones from [OnlineDrea](http://onlinedrea.com)**
 
 <img src="{{site.baseurl}}/img/andrea-jones.jpg" alt="Andréa Jones" height="216px">
 
