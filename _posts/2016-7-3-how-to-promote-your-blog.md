@@ -49,7 +49,7 @@ Without further ado, here are the experts!
 
 (Click on the links below to go directly to the experts.)
 
-<p><a href="#timbourqin">Tim Bourqin</a> | <a href="#jasonacidre">Jason Acidre</a> | <a href="#michaelpozdnev">Michael Pozdnev</a> | <a href="#larrykim">Larry Kim</a> | <a href="#cendrinemarrouat">Cendrine Marrouat</a> | <a href="#petersandeen">Peter Sandeen</a> | <a href="#charliday">Charli Day</a> | <a href="#rickramos">Rick Ramos</a> | <a href="#torrefsland">Tor Refsland</a> | <a href="#mikeallton">Mike Allton</a> | <a href="#andreajones">Andréa Jones</a> | <a href="#adamconnel">Adam Connel</a> | <a href="#allisonboyer">Allison Boyer</a></p>
+<p><a href="#timbourqin">Tim Bourqin</a> | <a href="#jasonacidre">Jason Acidre</a> | <a href="#michaelpozdnev">Michael Pozdnev</a> | <a href="#larrykim">Larry Kim</a> | <a href="#cendrinemarrouat">Cendrine Marrouat</a> | <a href="#petersandeen">Peter Sandeen</a> | <a href="#charliday">Charli Day</a> | <a href="#rickramos">Rick Ramos</a> | <a href="#torrefsland">Tor Refsland</a> | <a href="#mikeallton">Mike Allton</a> | <a href="#andreajones">Andréa Jones</a> | <a href="#adamconnell">Adam Connell</a> | <a href="#allisonboyer">Allison Boyer</a></p>
 
 <a name="timbourqin"></a>
 
@@ -210,11 +210,11 @@ My tip for not looking like the next guy is to focus on building relationships. 
 
 ---
 
-<a name="adamconnel"></a>
+<a name="adamconnell"></a>
 
-**Adam Connel from [AdamConnel.me](http://adamconnel.me)**
+**Adam Connell from [AdamConnell.me](http://adamconnell.me)**
 
-<img src="{{site.baseurl}}/img/adam-connel.png" alt="Adam Connel" height="216px">
+<img src="{{site.baseurl}}/img/adam-connel.png" alt="Adam Connell" height="216px">
 
 For most, promoting a piece of content is an after thought. And that's how I treated it for a long time.
 
