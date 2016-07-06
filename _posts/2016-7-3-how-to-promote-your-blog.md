@@ -188,7 +188,7 @@ and Jon Morrow...
 
 <img src="{{site.baseurl}}/img/mike-allton.jpg" alt="Mike Allton" height="216px">
 
-While I've written extensively on how to promote blog posts (https://www.thesocialmediahat.com/article/blog-promotionology-art-science-blog-promotion), the one major tip that I have to give bloggers is make sure that you're promoting your content more than once. It's OK, it's not your fault you've been told you need to spend more time writing than promoting. 
+While I've written extensively on how to promote blog ppost [https://www.thesocialmediahat.com/article/blog-promotionology-art-science-blog-promotion](https://www.thesocialmediahat.com/article/blog-promotionology-art-science-blog-promotion), the one major tip that I have to give bloggers is make sure that you're promoting your content more than once. It's OK, it's not your fault you've been told you need to spend more time writing than promoting. 
 
 But the truth is, tweeting out one link to your latest blog post simply isn't going to cut it. Most of your audience won't see that update. Instead, you need to share to social and email many times in many different ways. You need to make sure that you're reaching new audience members - people who might not have been following you the first time you shared, or people who might have seen the share but not have needed the information initially.
 
