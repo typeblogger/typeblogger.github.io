@@ -174,11 +174,23 @@ build genuine relationship with peers and influencers.
 
 Not because you want them to share your stuff, but because you want to get to know them.
 
-In the future, when you have an awesome post that is a GREAT fit for the influencer and their audience, send them a polite email and let them know about it.
+In the future, when you have an awesome post that is a GREAT fit for the influencer and their audience, send them a polite and mail and let them know about it.
 
 That is what Neil Patel did in the start to get influencers to promote his content...
 
 and Jon Morrow...
+
+and myself.
+
+Trust me, done right. It works like a charm :)
+
+What is easiest:
+
+Build a Twitter following of one million people...
+
+...or get two influencers with a million Twitter followers combined to share your content that is a great fit for their audience?
+
+The right answer: the latter one.
 
 ---
 
