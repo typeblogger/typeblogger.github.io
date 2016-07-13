@@ -10,4 +10,4 @@ As a way of saying thanks, here's my <a href="http://bit.ly/29QMqua" target="_bl
 
 Just so you know, I'll also be sending more awesome stuff and occasional updates to your inbox every week, so make sure you don't miss a thing!
 
-For now, be sure to check out my blog for more great stuff on blogging and content marketing. And don't forget to follow me on [Twitter](https://twitter.com/brunotandev) too!
+For now, be sure to check out my blog for more great stuff on blogging. And don't forget to follow me on [Twitter](https://twitter.com/brunotandev) too!
