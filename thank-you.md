@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thank You
+title: Thanks! Here's Your Free Stuff
 permalink: thank-you
 hidden: true
 ---
