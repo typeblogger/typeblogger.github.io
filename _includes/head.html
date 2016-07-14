@@ -1,6 +1,6 @@
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme.description }}{% endif %}">
+        {% seo %}
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-Frame-Options" content="sameorigin">
 	
@@ -20,7 +20,7 @@
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
 	<!-- Google Fonts -->
-        <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro|Montserrat:400,700' rel='stylesheet' type='text/css'>
 
 	<!-- Google Analytics -->
 	{% if site.theme.google_analytics %}
