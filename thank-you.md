@@ -4,14 +4,7 @@ title: Thanks! Here's Your Free Stuff
 permalink: thank-you
 hidden: true
 ---
-
-<style>
-.textwrap { 
-float: right;
-margin: 10px;
-}
-</style>
-<img src="/img/ultimate-blog-traffic.jpg" class="textwrap" height="20%">
+<img src="/img/ultimate-blog-traffic.jpg" align="right" height="20%">
 Hey there, thanks for subscribing to my email list! You're one of the cool kids now :wink:
 
 As a way of saying thanks, here's my <a href="http://bit.ly/29QMqua" target="_blank">free blog traffic checklist</a>. It's packed with exclusive content you won't find anywhere else on this blog, so what are you waiting for? Just <a href="http://bit.ly/29QMqua" target="_blank">click here</a> to get it now! 
