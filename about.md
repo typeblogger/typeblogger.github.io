@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: img/background1.png
 published: true
 ---
 
