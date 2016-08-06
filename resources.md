@@ -2,7 +2,6 @@
 layout: page
 title: Resources
 published: true
-feature-img: img/background3.png
 permalink: /resources/
 ---
 Building a successful blog means using the right tools that will help you to succeed at every level. 
