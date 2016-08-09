@@ -15,7 +15,9 @@ Below is a list of some of the most essential tools in my toolbox and I have no 
 
 <br>
 <center>
+
 ![siteground-logo.png]({{site.baseurl}}/img/siteground-logo.png)
+
 </center>
 <br>
 
@@ -31,7 +33,9 @@ Their customer support is simply amazing (they replied to every single email I s
 
 <br>
 <center>
+
 ![wordpress.png]({{site.baseurl}}/img/wordpress.png)
+
 </center>
 <br>
 
@@ -49,7 +53,9 @@ It's fast, easy to use and allows you to fully customise your website with plugi
 
 <br>
 <center>
+
 ![cloudflare.png]({{site.baseurl}}/img/cloudflare.png)
+
 </center>
 <br>
 
@@ -67,7 +73,9 @@ After setting up Cloudflare on my blog (which is completely free and only takes 
 
 <br>
 <center>
+
 ![mailchimp-logo.jpg]({{site.baseurl}}/img/mailchimp-logo.jpg)
+
 </center>
 <br>
 
